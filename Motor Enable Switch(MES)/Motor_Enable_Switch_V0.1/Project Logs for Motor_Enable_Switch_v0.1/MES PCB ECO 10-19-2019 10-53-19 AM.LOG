@@ -1,0 +1,9 @@
+Added Component: Designator=Q1(IXFN360N10T)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GATE Pin=Q1-1
+Added Pin To Net: NetName=OUT Pin=Q1-2
+Added Pin To Net: NetName=OUT Pin=Q1-2
+Added Pin To Net: NetName=VIN Pin=Q1-3
+Added Member To Class: ClassName=MES Member=Component Q1 IXFN360N10T
+Added Member To Class: ClassName=MES Member=Component R2 Resistor
+Added Member To Class: ClassName=MES Member=Component R4 Resistor

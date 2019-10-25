@@ -1,0 +1,4 @@
+Change Component Comment : Designator=Q1 Old Comment=IXFN360N10T New Comment=Mosfet
+Added Pin To Net: NetName=NetC1_2 Pin=R4-2
+Change Net Name : Old Net Name=NetC1_2 New Net Name=GND
+Added Room: Name=MES

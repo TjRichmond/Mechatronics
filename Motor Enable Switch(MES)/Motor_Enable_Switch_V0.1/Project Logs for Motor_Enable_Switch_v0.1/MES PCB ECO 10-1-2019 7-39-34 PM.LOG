@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=U1 Old Footprint=MUB10A_N New Footprint=MUB10A_N
+Added Component: Designator=Q1(IXFN360N10T)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetJ3_1 Pin=Q1-2
+Added Pin To Net: NetName=NetJ3_1 Pin=Q1-2
+Added Member To Class: ClassName=MES Member=Component Q1 IXFN360N10T
+Added Room: Name=MES
